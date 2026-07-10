@@ -190,13 +190,15 @@ Web Service Development
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cucurubingbbong\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=cucurubingbbong&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cucurubingbbong\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=6)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=cucurubingbbong&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=21600)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=cucurubingbbong&theme=tokyonight&hide_border=true)
 
 </div>
 
