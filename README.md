@@ -1,74 +1,128 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=220\&section=header\&text=I'm%20cucurubingbbong\&fontSize=45\&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=230\&section=header\&text=cucurubingbbong\&fontSize=55\&fontAlignY=38\&desc=Unity%20%2F%20Game%20Client%20Developer\&descAlignY=58\&descAlign=50)
 
 <div align="center">
 
-# 👋 cucurubingbbong
+# 안녕하세요, cucurubingbbong입니다.
 
 ### Unity / Game Client Developer
 
-서울디지텍고등학교 2학년
-Unity와 C#을 중심으로 게임 클라이언트 개발을 공부하고 있습니다.
+게임 클라이언트 개발과 Unity 기반 게임 시스템 설계에 관심이 있는 학생 개발자입니다.
+반복적으로 사용하는 개발 구조를 직접 만들고, 이를 기반으로 게임과 서비스를 제작하고 있습니다.
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-cucurubingbbong-181717?style=for-the-badge\&logo=github)](https://github.com/cucurubingbbong)
+[![Unity](https://img.shields.io/badge/Unity-Game%20Development-000000?style=for-the-badge\&logo=unity)](https://unity.com/)
+[![CSharp](https://img.shields.io/badge/C%23-Client%20Programming-8A2BE2?style=for-the-badge\&logo=csharp\&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 
 </div>
 
 ---
 
-## 🧑‍💻 Who Am I?
+## 👤 About Me
 
 ```txt
-Unity 기반 게임 개발을 공부하고 있는 학생 개발자입니다.
-게임 시스템 구조, 공통 프레임워크, AI를 활용한 서비스 개발에 관심이 있습니다.
+서울디지텍고등학교 2학년
+Unity와 C#을 중심으로 게임 클라이언트 개발을 공부하고 있습니다.
+초등학교 5학년 때 Python으로 프로그래밍을 시작했고,
+중학교 1학년 때 Minecraft 서버 개발을 경험했습니다.
+현재는 새로운 Minecraft 서버 오픈을 준비하면서,
+Unity 기반 개인 프로젝트와 공통 개발 프레임워크를 함께 제작하고 있습니다.
 ```
 
-* 서울디지텍고 2학년
-* Unity / C# 기반 게임 클라이언트 개발
-* AI를 활용한 게임 개발 및 웹서비스 개발 경험
-* 재사용 가능한 게임 개발 구조와 프레임워크 제작에 관심
+* Unity 기반 게임 클라이언트 개발
+* C# 중심의 게임 시스템 구조 설계
+* Minecraft 서버 개발 경험
+* AI를 활용한 게임 개발 및 웹 서비스 개발
+* 재사용 가능한 게임 개발 프레임워크 제작
+
+---
+
+## 🧭 Developer Timeline
+
+| 시기       | 내용                                        |
+| -------- | ----------------------------------------- |
+| 초등학교 5학년 | Python으로 프로그래밍 시작                         |
+| 중학교 1학년  | Minecraft 서버 개발 경험                        |
+| 고등학교 1학년 | 앱웹경진대회 장려상 수상, 팀 프로젝트 완성                  |
+| 고등학교 2학년 | Unity 기반 게임 개발, GameCore 제작, 새로운 서버 오픈 준비 |
 
 ---
 
 ## 🚀 Main Projects
 
-| Project        | Description                    | Repository                                                                      |
-| -------------- | ------------------------------ | ------------------------------------------------------------------------------- |
-| **FocusOrDie** | GIGDC, BIC 준비 프로젝트             | Private Repository                                                              |
-| **GameCore**   | Unity 게임 개발용 공통 코어 프레임워크       | [Unity_GameCore](https://github.com/cucurubingbbong/Unity_GameCore)             |
-| **밥경찰 밥도둑 게임** | AI를 활용한 게임 개발 프로젝트             | [Police_RiceThiefGame](https://github.com/cucurubingbbong/Police_RiceThiefGame) |
-| **JobLoadMap** | 진로를 작성하면 AI가 가이드해주는 진로 로드맵 서비스 | [JobLoadMap](https://github.com/cucurubingbbong/JobLoadMap)                     |
+<table>
+<tr>
+<td width="50%">
+
+### GameCore
+
+Unity 게임 개발에서 반복적으로 사용하는 기능들을 모듈화한 공통 개발 패키지입니다.
+
+**주요 기능**
+
+* SceneLoader
+* UIManager
+* AudioManager
+* SaveManager
+* ObjectPoolManager
+* DebugConsole
+* FPSDisplay
+
+[Repository 바로가기](https://github.com/cucurubingbbong/Unity_GameCore)
+
+</td>
+<td width="50%">
+
+### FocusOrDie
+
+GIGDC, BIC 준비를 목표로 제작했던 게임 프로젝트입니다.
+
+**상태**
+
+* Private Repository
+* Unity 기반 게임 프로젝트
+* 게임 기획 및 클라이언트 구현 경험
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎮 Personal Projects
+## 🤖 AI 활용 프로젝트
 
-| Project                      | Description      | Repository                                                                              |
-| ---------------------------- | ---------------- | --------------------------------------------------------------------------------------- |
-| **PIonner_ProjectMoonMojak** | 개인작, 추후 개발 재개 예정 | [PIonner_ProjectMoonMojak](https://github.com/cucurubingbbong/PIonner_ProjectMoonMojak) |
-| **VIsualNovel_01**           | 비주얼노벨 개인 프로젝트    | [VIsualNovel_01](https://github.com/cucurubingbbong/VIsualNovel_01)                     |
-| **Sdh25_Team_Project**       | 처음으로 완성한 팀 프로젝트  | [Sdh25_Team_Project](https://github.com/cucurubingbbong/Sdh25_Team_Project)             |
+| Project    | Description                    | Repository                                                                      |
+| ---------- | ------------------------------ | ------------------------------------------------------------------------------- |
+| 밥경찰 밥도둑 게임 | AI를 활용한 게임 개발 프로젝트             | [Police_RiceThiefGame](https://github.com/cucurubingbbong/Police_RiceThiefGame) |
+| JobLoadMap | 진로를 작성하면 AI가 가이드해주는 진로 로드맵 서비스 | [JobLoadMap](https://github.com/cucurubingbbong/JobLoadMap)                     |
 
 ---
 
-## 🧩 GameCore
+## 🎮 Game Projects
 
-> Unity 프로젝트에서 반복적으로 사용하는 기능들을 모듈화한 공통 개발 패키지입니다.
+| Project                  | Description      | Repository                                                                              |
+| ------------------------ | ---------------- | --------------------------------------------------------------------------------------- |
+| PIonner_ProjectMoonMojak | 개인작, 추후 개발 재개 예정 | [PIonner_ProjectMoonMojak](https://github.com/cucurubingbbong/PIonner_ProjectMoonMojak) |
+| VIsualNovel_01           | 비주얼노벨 개인 프로젝트    | [VIsualNovel_01](https://github.com/cucurubingbbong/VIsualNovel_01)                     |
+| Sdh25_Team_Project       | 처음으로 완성한 팀 프로젝트  | [Sdh25_Team_Project](https://github.com/cucurubingbbong/Sdh25_Team_Project)             |
 
-### Included Systems
+---
+
+## 🧱 Current Work
 
 ```txt
-SceneLoader
-UIManager
-AudioManager
-SaveManager
-ObjectPoolManager
-DebugConsole=
+새로운 Minecraft 서버 오픈 준비
+Unity 공통 개발 패키지 GameCore 개선
+GameCore를 활용한 개인 게임 프로젝트 제작
+AI 기반 게임 및 웹서비스 개발 실험
 ```
-
-🔗 Repository
-https://github.com/cucurubingbbong/Unity_GameCore
 
 ---
 
-## 🛠 Languages
+## 🛠 Tech Stack
+
+### Languages
 
 <div align="center">
 
@@ -80,9 +134,7 @@ https://github.com/cucurubingbbong/Unity_GameCore
 
 </div>
 
----
-
-## ⚙️ Tools
+### Tools
 
 <div align="center">
 
@@ -95,15 +147,17 @@ https://github.com/cucurubingbbong/Unity_GameCore
 
 ---
 
-## 📌 Current Focus
+## 📌 관심 분야
 
 ```txt
 Game Client Programming
-Unity Game Framework
+Unity Framework Structure
 Reusable Game Systems
+Minecraft Server Development
 Runtime Debug Tools
 Object Pooling
 AI-based Game Development
+Web Service Development
 ```
 
 ---
@@ -111,7 +165,7 @@ AI-based Game Development
 ## 🏆 Awards & Certificates
 
 <details>
-<summary>🏆 Certificates</summary>
+<summary>자격증</summary>
 
 <br/>
 
@@ -120,7 +174,7 @@ AI-based Game Development
 </details>
 
 <details>
-<summary>🏅 Awards</summary>
+<summary>수상 경력</summary>
 
 <br/>
 
@@ -136,6 +190,28 @@ AI-based Game Development
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cucurubingbbong\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cucurubingbbong\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=6)
+
+</div>
+
+---
+
+## 📌 Featured Repository
+
+<div align="center">
+
+[![GameCore](https://github-readme-stats.vercel.app/api/pin/?username=cucurubingbbong\&repo=Unity_GameCore\&theme=tokyonight\&hide_border=true)](https://github.com/cucurubingbbong/Unity_GameCore)
+
+</div>
+
+---
+
 ## 📫 Contact
 
 | Type    | Info                                                  |
@@ -146,14 +222,17 @@ AI-based Game Development
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cucurubingbbong\&show_icons=true\&theme=tokyonight\&hide_border=true)
+### 계속 개발 중입니다.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cucurubingbbong\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=6)
-<div align="center">
+게임을 직접 만들면서 필요한 시스템을 설계하고,
+그 시스템을 다시 다음 프로젝트에 재사용할 수 있는 구조를 만드는 것을 목표로 하고 있습니다.
+
+<br/>
+
+README 정리: Codex!
+
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=180\&section=footer)
