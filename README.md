@@ -120,6 +120,14 @@ AI 기반 게임 및 웹서비스 개발 실험
 
 ---
 
+## 📚 공부 기록
+
+| 분야 | 저장소 |
+| --- | --- |
+| 코딩 테스트 | [Programmers](https://github.com/cucurubingbbong/Programmers) |
+
+---
+
 ## 🛠 Tech Stack
 
 ### Languages
