@@ -6,8 +6,8 @@
 
 ### Unity / Game Client Developer
 
-게임 클라이언트 개발과 Unity 기반 게임 시스템 설계에 관심이 있는 학생 개발자입니다.
-반복적으로 사용하는 개발 구조를 직접 만들고, 이를 기반으로 게임과 서비스를 제작하고 있습니다.
+Unity와 C#으로 게임 클라이언트 개발을 공부하고 있습니다.
+게임을 만들면서 반복해서 쓰는 기능은 GameCore에 정리하고 있습니다.
 
 <br/>
 
@@ -120,17 +120,17 @@ AI 기반 게임 및 웹서비스 개발 실험
 
 ---
 
-## 📚 공부 기록
+## 공부 기록
 
-| 분야 | 저장소 | 공개 범위 |
-| --- | --- | --- |
-| C++ | [cpp-study](https://github.com/cucurubingbbong/cpp-study) | 비공개 |
-| 디자인 패턴 | [design-patterns-cpp](https://github.com/cucurubingbbong/design-patterns-cpp) | 비공개 |
-| WinAPI | [winapi-study](https://github.com/cucurubingbbong/winapi-study) | 비공개 |
-| ECS / Unity DOTS | [unity-ecs-dots](https://github.com/cucurubingbbong/unity-ecs-dots) | 비공개 |
-| Java / Kotlin | [java-kotlin-study](https://github.com/cucurubingbbong/java-kotlin-study) | 비공개 |
-| Python | [python-study](https://github.com/cucurubingbbong/python-study) | 비공개 |
-| 코딩 테스트 | [Programmers](https://github.com/cucurubingbbong/Programmers) | 공개 |
+| 분야 | 저장소 |
+| --- | --- |
+| C++ | [cpp-study](https://github.com/cucurubingbbong/cpp-study) |
+| 디자인 패턴 · C# / C++ | [design-patterns-cpp](https://github.com/cucurubingbbong/design-patterns-cpp) |
+| WinAPI | [winapi-study](https://github.com/cucurubingbbong/winapi-study) |
+| ECS / DOTS | [unity-ecs-dots](https://github.com/cucurubingbbong/unity-ecs-dots) |
+| Java / Kotlin | [java-kotlin-study](https://github.com/cucurubingbbong/java-kotlin-study) |
+| Python | [python-study](https://github.com/cucurubingbbong/python-study) |
+| 코딩 테스트 | [Programmers](https://github.com/cucurubingbbong/Programmers) |
 
 ---
 
@@ -246,8 +246,6 @@ Web Service Development
 그 시스템을 다시 다음 프로젝트에 재사용할 수 있는 구조를 만드는 것을 목표로 하고 있습니다.
 
 <br/>
-
-README 정리: Codex!
 
 </div>
 
