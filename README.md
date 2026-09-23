@@ -122,9 +122,15 @@ AI 기반 게임 및 웹서비스 개발 실험
 
 ## 📚 공부 기록
 
-| 분야 | 저장소 |
-| --- | --- |
-| 코딩 테스트 | [Programmers](https://github.com/cucurubingbbong/Programmers) |
+| 분야 | 저장소 | 공개 범위 |
+| --- | --- | --- |
+| C++ | [cpp-study](https://github.com/cucurubingbbong/cpp-study) | 비공개 |
+| 디자인 패턴 | [design-patterns-cpp](https://github.com/cucurubingbbong/design-patterns-cpp) | 비공개 |
+| WinAPI | [winapi-study](https://github.com/cucurubingbbong/winapi-study) | 비공개 |
+| ECS / Unity DOTS | [unity-ecs-dots](https://github.com/cucurubingbbong/unity-ecs-dots) | 비공개 |
+| Java / Kotlin | [java-kotlin-study](https://github.com/cucurubingbbong/java-kotlin-study) | 비공개 |
+| Python | [python-study](https://github.com/cucurubingbbong/python-study) | 비공개 |
+| 코딩 테스트 | [Programmers](https://github.com/cucurubingbbong/Programmers) | 공개 |
 
 ---
 
